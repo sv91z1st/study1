@@ -4,3 +4,4 @@ while True:
   if i==100:
     break
   i+=1
+print("Hi!")
